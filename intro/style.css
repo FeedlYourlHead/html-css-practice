@@ -9,3 +9,10 @@ p {
     margin-bottom: 90px;
 }
 
+ul {
+    list-style-type: circle;
+
+}
+ol {
+    list-style-position: outside ;
+}
